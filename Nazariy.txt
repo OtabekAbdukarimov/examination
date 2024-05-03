@@ -1,0 +1,44 @@
+# import types
+#
+# # 1-Answer
+# # We learnt mainly 4 types of python data types.
+# # 1)Lists 2)Sets 3)Tuples 4)Dictionaries
+# # Lists-Lists are a type of data structure containing an ordered collection of items. They are
+#   mutable,that we can search, add and delete the information.Example; [1,2,"3",4]
+#   2)Sets-Set is collection of new elements without order which are used when an object only needs to exist within a collection of objects and its order or number of appearances are not important.
+#   Example;{"1","2","3","4"}
+#   3)Tuples-We can say that the tuples are doing same functionality as a lists but main difference between the two is that  list is immutable, meaning it cannot be modified or deleted but tuples mutable.
+#   Example; (1,2,"3",4)
+#   4)Dictionaries- mutable data structure that contain a collection of keys and values.We use dictionaries when we are able to associate in technical terms, to map a unique key to certain data, and we want to access that data very quickly.
+#   Example; {"1key":"2value","1key":"2value"}
+
+    # 2-Answer
+    # We can say that they are True or False or logical operators that we can evaluate the information True or False.
+    # The AND operator returns True only if both information are True , the OR operator returns True if either information is true.
+
+      # 3-Answer
+      # # Git-Git is used to tracking changes in  code and manage some changes.It is very useful when programmers are working from different locations.
+      # For example, git push origin master , when run on a remote,  we will push  changes to the master branch of the primary repository database.
+      # #   Git clone -is a command for downloading existing source code from  repository. Git init- is used to create an empty Git repository.Git Commit - we had  development, we want to save our changes to others.
+      #     Git Add- moves changes from the working directory to the direct area.
+      #
+      #   4-Answer
+      # #   The method _init_ - it is a method that we can create new instance of a class.It permits us to initialize the attributes of the object.
+      #      We can say also constructor.
+           Example
+# class information_about_hayvon():
+#     def __init__( self,ism, yosh,):
+#         self.ism = ism
+#         self.yosh = yosh
+
+          # 5-Answer
+          #  Inheritance permits us to clarify a new class that has access to the methods and attributes of another class that has already been clarified.
+
+
+
+
+
+
+
+
+
